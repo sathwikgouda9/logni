@@ -1,1 +1,2 @@
 # logni
+computer science
